@@ -1,4 +1,12 @@
-### Hi there 👋
+### Alexander Groth
+
+I'm a 20 year old developer who specializes in python and c#.
+Currently I am focusing on making commercial, private and free open source tools for Unity Engine.
+I also work on random projects, usually something related to games.
+
+For collaberation, you can contact me by email or discord
+Email: software.agroth@gmail.com
+Discord: Groth#6969
 
 <!--
 **agroth01/agroth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
