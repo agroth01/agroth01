@@ -5,7 +5,9 @@ Currently I am focusing on making commercial, private and free open source tools
 I also work on random projects, usually something related to games.
 
 For collaberation, you can contact me by email or discord
+
 Email: software.agroth@gmail.com
+
 Discord: Groth#6969
 
 <!--
