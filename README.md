@@ -6,10 +6,9 @@ I also work on random projects, usually something related to games.
 
 For collaberation, you can contact me by email or discord
 
-Email: software.agroth@gmail.com
-
-Discord: Groth#6969
-
+<div id="badges">
+  <img src="https://img.shields.io/badge/Discord-9cf?logo=discord&style=for-the-badge"
+</div>
 <!--
 **agroth01/agroth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
