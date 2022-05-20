@@ -1,14 +1,15 @@
 ### Alexander Groth
-
-I'm a 20 year old developer who specializes in python and c#.
-Currently I am focusing on making commercial, private and free open source tools for Unity Engine.
-I also work on random projects, usually something related to games.
-
-For collaberation, you can contact me by email or discord
-
 <div id="badges">
-  <img src="https://img.shields.io/badge/Discord-9cf?logo=discord&style=for-the-badge"
+  <img src="https://img.shields.io/badge/Discord-9cf?logo=discord&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>     
 </div>
+
+
+I'm a 20 year old developer from Norway specializing in Python and C#.
+Currently working on a commercial package for Unity Engine, with sprinkles of side projects scattered around.
+For collaborations, please contact me through my social platforms😄
+
+
 <!--
 **agroth01/agroth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
