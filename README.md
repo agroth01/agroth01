@@ -1,8 +1,9 @@
 # Alexander Groth
 <div id="badges">
-  <a href="
   <img src="https://img.shields.io/badge/Discord-9cf?logo=discord&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>     
+  <a href="https://twitter.com/GrothThe">
+    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>     
+  </a>
 </div>
 </br>
 
