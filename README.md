@@ -6,18 +6,6 @@
   </a>
 </div>
 </br>
-
-### :man_technologist: About me :
-
-I am a 20 year old game developer and python enthusiast from Norway.
-
-- Currently working in Tokyo and creating games and personal projects on the side.
-
-- Right now I am working on a commercial FPS Framework for Unity Engine
-
-- In my free time, I play games and pursue fitness
-
-- How to reach me: <img src="https://img.shields.io/badge/Discord-9cf?logo=discord"/>
 -------------
 
 ### :hammer_and_wrench: Languages and Tools :
